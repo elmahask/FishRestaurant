@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Fish Restaurant</string>
+    <string name="description">Restuarant For Local Food and SandwichIn Provide Low Price and Satisfactory Quality and Fast Services.</string>
+    <string name="address">20 St.Asmaa Zaghloul,Cairo 11511,Egypt</string>
+    <string name="email_id_fishresturant_gmail_com">Email id: fishresturant@gmail.com</string>
+    <string name="about">About</string>
+    <string name="location">Location</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="phone_no_0201095486221">Phone no: +0201095486221</string>
+    <string name="service_24_hours">Service: 24 Hours</string>
+    <string name="fish_restaurant">Fish Restaurant</string>
+</resources>
